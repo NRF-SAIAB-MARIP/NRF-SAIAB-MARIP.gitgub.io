@@ -4,6 +4,15 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 
 ![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)
 
+## Navigation
+1. Socio-economic implications
+2. Functionality
+3. Transformation & Capacity Development
+4. Users
+5. Future
+6. Funders
+
+
 ## Socio-economic implications
 The Blue Economy requires robust verifiable data of the subtidal environment to ensure sustainable development of the marine fisheries, oil and gas, and transport and mining sectors.
 
