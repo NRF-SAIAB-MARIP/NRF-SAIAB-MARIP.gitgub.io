@@ -1,1 +1,1 @@
-# NRF-SAIAB-MARIP.gitgub.io
+# NRF-SAIAB-MARIP.github.io
