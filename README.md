@@ -3,4 +3,4 @@
 ### Education
 Physics
 
-![MARIP image] (/assets/img/Mar-RIP_no_text.png)
+![Mar-RIP no text] (/assets/img/Mar-RIP_no_text.png)
