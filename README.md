@@ -1,4 +1,4 @@
-<img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" height="200"/> 
+<img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" height="200" width="1200"/> 
 
 
 
