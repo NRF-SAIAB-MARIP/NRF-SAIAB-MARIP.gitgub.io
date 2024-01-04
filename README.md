@@ -1,6 +1,6 @@
 <img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" height="200"/> 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -64,7 +64,7 @@ body {
 <body>
 
 <div class="header">
-  <a href="#default" class="logo">CompanyLogo</a>
+  <a href="#default" class="logo">![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)</a>
   <div class="header-right">
     <a class="active" href="#home">Home</a>
     <a href="#contact">Contact</a>
@@ -72,11 +72,6 @@ body {
   </div>
 </div>
 
-<div style="padding-left:20px">
-  <h1>Responsive Header</h1>
-  <p>Resize the browser window to see the effect.</p>
-  <p>Some content..</p>
-</div>
 
 </body>
 </html>
