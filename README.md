@@ -105,6 +105,11 @@ Over 100 students and researchers from 39 national and international organisatio
 
 </details>
 
+<details>
+<summary>Example</summary>
+<pre>$ This dropdown contains<br>a code block!</pre>
+</details>
+
 
 ## Future
 
