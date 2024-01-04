@@ -1,4 +1,6 @@
-![saiab](/assets/img/nrf_saiab_cover.jpeg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=100&q=80)
+<img src="nrf_saiab_cover.jpeg" alt="drawing" width="200"/>
+
+![saiab](/assets/img/nrf_saiab_cover.jpeg)
 
 # Marine Remote Imagery Platform (MARIP)
 
