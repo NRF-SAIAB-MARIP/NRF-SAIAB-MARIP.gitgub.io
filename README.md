@@ -1,7 +1,7 @@
 
 
 ![saiab](/assets/img/nrf_saiab_cover.jpeg)
-<img src="nrf_saiab_cover.jpeg" alt="saiab" width="200"/>
+<img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" width="200"/>
 
 # Marine Remote Imagery Platform (MARIP)
 
