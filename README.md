@@ -69,44 +69,41 @@ Over 100 students and researchers from 39 national and international organisatio
 
 ## Useful code
 
- <details><summary>Clean data</summary>
-
-```
-{
+<details>
+<summary>Code a</summary>
+<pre>
+    {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-```
-
-</details>   
-   
-<details><summary>Merge data</summary>
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-</details>
-
-<details><summary>Delete data</summary>
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
+</pre>
 </details>
 
 <details>
-<summary>Example</summary>
+<summary>Code b</summary>
+<pre>
+    {
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+</pre>
+</details>
+
+<details>
+<summary>Code c</summary>
+<pre>
+    {
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+</pre>
+</details>
+
+<details>
+<summary>Code d</summary>
 <pre>
     {
   "firstName": "John",
