@@ -102,17 +102,6 @@ Over 100 students and researchers from 39 national and international organisatio
 </pre>
 </details>
 
-<details>
-<summary>Code d</summary>
-<pre>
-    ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
-```
-</pre>
-</details>
-
 
 ## Future
 
