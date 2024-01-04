@@ -1,4 +1,3 @@
-
 <img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" height="300"/>
 
 # Marine Remote Imagery Platform (MARIP)
