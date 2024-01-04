@@ -86,16 +86,24 @@ Clean data
   "age": 25
 }
 ```
-<details>
-      <summary>Delete data</summary>
-      <br>
-      
-      This is how you add `code` in a dropdown:
-      ```javascript
-      console.log("Hello, world!");
-      ```
-    </details>
 
+<details>
+
+<summary>
+
+Data
+
+</summary>
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+</details>
 
 
 ## Future
