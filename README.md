@@ -1,3 +1,5 @@
+![saiab](/assets/img/nrf_saiab_cover.jpeg)
+
 # Marine Remote Imagery Platform (MARIP)
 
 The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity to conduct ecological research on benthic biota across the continental shelf of South Africa, from the shallow subtidal to depths of 250 m.
