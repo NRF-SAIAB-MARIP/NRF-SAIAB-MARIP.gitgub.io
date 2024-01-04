@@ -41,15 +41,8 @@ Lander
 Visual access to previously unseen ecosystems
 Data management for Western Indian Ocean footage
 Innovation and development of new applications and equipment
-
-<details>  
-<summary>  Documents  </summary>
     
 - [Document1](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
-- [Document2](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
-- [Document3](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
-  
-</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
