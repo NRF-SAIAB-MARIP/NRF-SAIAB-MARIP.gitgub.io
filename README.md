@@ -54,7 +54,7 @@ Extensive postgraduate student use of resources
 Developing a transformed cohort of next-generation marine technicians
 Annual Summer School initiative
 
-![BRUVS_info](/assets/img/bruvs_infographic.png)
+![bruvs](/assets/img/bruvs_ infographic.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
