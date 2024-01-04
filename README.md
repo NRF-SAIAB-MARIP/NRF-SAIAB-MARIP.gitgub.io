@@ -2,7 +2,7 @@
     <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="left" height="75" />
 </a>
 
- <h1 align="center">Marine Remote Imagery Platform (MARIP) </h1>
+ <h1 align="left">Marine Remote Imagery Platform (MARIP) </h1>
 
 
 
