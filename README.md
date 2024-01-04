@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+![Mar-RIP](/assets/img/marip.png)
+
 <a href="https://aimeos.org/">
     <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="left" height="75" />
 </a>
