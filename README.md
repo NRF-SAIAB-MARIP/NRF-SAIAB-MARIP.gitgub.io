@@ -11,7 +11,7 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 ## Navigation
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
-3. [Transformation & Capacity Development](https://nrf-saiab-marip.github.io/#transformation--capacity-development))
+3. [Transformation & Capacity Development](https://nrf-saiab-marip.github.io/#transformation--capacity-development)
 4. [Users](https://nrf-saiab-marip.github.io/#users)
 5. [Future](https://nrf-saiab-marip.github.io/#future)
 6. [Funders](https://nrf-saiab-marip.github.io/#funders)
