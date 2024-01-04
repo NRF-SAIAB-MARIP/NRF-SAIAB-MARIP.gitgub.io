@@ -1,13 +1,25 @@
-
-
-
-<p align="right">
-<img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" height="200"/> 
-
-align="left">
-<img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" height="200"/> 
-</p>
-
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .header {
+            display: flex;
+            align-items: center;
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+        .logo {
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" class="logo">
+        <h1>Your Website Title</h1>
+    </div>
+</body>
+</html>
 
 
 
