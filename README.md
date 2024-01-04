@@ -1,5 +1,5 @@
 <a href="https://aimeos.org/">
-    <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="left" height="100" />
+    <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="left" height="90" />
 </a>
 
  <h1 align="center">Marine Remote Imagery Platform (MARIP) </h1>
@@ -12,9 +12,9 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
 2. [Functionality](https://nrf-saiab-marip.github.io/#functionality)
 3. [Transformation & Capacity Development](https://nrf-saiab-marip.github.io/#transformation--capacity-development))
-4. [Users](https://nrf-saiab-marip.github.io/#Users)
-5. [Future](https://nrf-saiab-marip.github.io/#Future)
-6. [Funders](https://nrf-saiab-marip.github.io/#Funders)
+4. [Users](https://nrf-saiab-marip.github.io/#users)
+5. [Future](https://nrf-saiab-marip.github.io/#future)
+6. [Funders](https://nrf-saiab-marip.github.io/#funders)
 
 ![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)
 
