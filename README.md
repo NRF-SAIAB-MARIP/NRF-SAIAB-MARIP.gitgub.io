@@ -1,5 +1,5 @@
 <a href="https://aimeos.org/">
-    <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="right" height="60" />
+    <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="right" height="75" />
 </a>
 
 # Marine Remote Imagery Platform (MARIP)
