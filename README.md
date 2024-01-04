@@ -7,6 +7,7 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 ![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)
 
 ## Navigation
+
 <details>
  <summary> null </summary>
 
