@@ -17,7 +17,8 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 <a href="https://nrf-saiab-marip.github.io/">Home</a> - 
 <a href="https://nrf-saiab-marip.github.io/Data-management/">Data management</a> - 
 <a href="https://nrf-saiab-marip.github.io/Data-management/">Data storage</a> - 
-<a href="https://nrf-saiab-marip.github.io/Data-management/">Data analysis</a>
+<a href="https://nrf-saiab-marip.github.io/Data-management/">Data analysis</a> - 
+<a href="https://nrf-saiab-marip.github.io/Data-management/">Github</a>
 </div>
 
 ## Navigation
