@@ -62,11 +62,22 @@ Over 100 students and researchers from 39 national and international organisatio
 
 ## Users
 
-## Useful code
-   ```sh
-   npm install
-   ```
+Over 100 students and researchers from 39 national and international organisations
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Useful code
+
+ Merge data
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```   
+   
+Clean data
 ```
 {
   "firstName": "John",
@@ -74,6 +85,7 @@ Over 100 students and researchers from 39 national and international organisatio
   "age": 25
 }
 ```
+
 
 ## Future
 
