@@ -87,13 +87,7 @@ Clean data
 }
 ```
 
-<details>
-
-<summary>
-
-Data
-
-</summary>
+<details><summary>Does work</summary>
 
 ```
 {
