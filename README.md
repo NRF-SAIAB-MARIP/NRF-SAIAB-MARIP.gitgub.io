@@ -112,7 +112,7 @@ Over 100 students and researchers from 39 national and international organisatio
 ## Future
 
 1. Extension of depth range capabilities
-2. Artificial intelligence applications in footage analysis
+2. Artificial intelligence applications in footage analysis 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
