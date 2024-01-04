@@ -1,6 +1,15 @@
-<header> <img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" height="200"/> </header>
-
 <img src="/assets/img/nrf_saiab_cover.jpeg" alt="saiab" height="200"/> 
+
+<div class="header">
+  <a href="#default" class="logo">CompanyLogo</a>
+  <div class="header-right">
+    <a class="active" href="#home">Home</a>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+  </div>
+</div>
+
+
 <details>
 
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
