@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <a href="https://aimeos.org/">
     <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="left" height="75" />
 </a>
@@ -20,10 +22,12 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 
 ***
 
-[linked](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
-
 ## Socio-economic implications
 The Blue Economy requires robust verifiable data of the subtidal environment to ensure sustainable development of the marine fisheries, oil and gas, and transport and mining sectors.
+
+[Document1](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
+[Document2](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
+[Document3](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 
 ## Functionality
 Largest and most comprehensive underwater visual platform in Africa
@@ -51,3 +55,5 @@ Over 100 students and researchers from 39 national and international organisatio
 
 ## Funders
 DSI, NRF-SAIAB, SMCRI
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
