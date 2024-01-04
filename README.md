@@ -120,3 +120,5 @@ Over 100 students and researchers from 39 national and international organisatio
 DSI, NRF-SAIAB, SMCRI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="left" height="75" />
