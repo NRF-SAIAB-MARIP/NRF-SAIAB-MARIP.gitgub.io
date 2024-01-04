@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -9,21 +8,17 @@
             padding: 20px;
         }
         .logo {
-            height: 50px;
+            height: 150px;
         }
     </style>
 </head>
 <body>
     <div class="header">
         <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" class="logo">
-        <h1>Your Website Title</h1>
+        <h1>Marine Remote Imagery Platform (MARIP)</h1>
     </div>
 </body>
 </html>
-
-
-
-# Marine Remote Imagery Platform (MARIP)
 
 The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity to conduct ecological research on benthic biota across the continental shelf of South Africa, from the shallow subtidal to depths of 250 m.
 
