@@ -107,7 +107,13 @@ Over 100 students and researchers from 39 national and international organisatio
 
 <details>
 <summary>Example</summary>
-<pre>$ This dropdown contains<br>a code block!</pre>
+<pre>
+    {
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+</pre>
 </details>
 
 
