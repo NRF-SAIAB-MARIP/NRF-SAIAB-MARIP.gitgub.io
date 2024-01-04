@@ -105,11 +105,11 @@ Over 100 students and researchers from 39 national and international organisatio
 <details>
 <summary>Code d</summary>
 <pre>
-    {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+    ```
+function test() {
+  console.log("This code will have a copy button to the right of it");
 }
+```
 </pre>
 </details>
 
