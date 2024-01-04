@@ -2,7 +2,7 @@
 
 ![Mar-RIP](/assets/img/marip.png)
 
-<a href="https://aimeos.org/">
+<!-- <a href="https://aimeos.org/">
     <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="left" height="75" />
 </a>
 
@@ -11,6 +11,8 @@
 The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity to conduct ecological research on benthic biota across the continental shelf of South Africa, from the shallow subtidal to depths of 250 m.
 
 ![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)
+
+-->
 
 ## Navigation
 1. [Socio-economic implications](https://nrf-saiab-marip.github.io/#socio-economic-implications)
