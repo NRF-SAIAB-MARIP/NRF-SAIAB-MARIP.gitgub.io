@@ -62,10 +62,18 @@ Over 100 students and researchers from 39 national and international organisatio
 
 ## Users
 
-Useful code
+## Useful code
    ```sh
    npm install
    ```
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 ## Future
 
