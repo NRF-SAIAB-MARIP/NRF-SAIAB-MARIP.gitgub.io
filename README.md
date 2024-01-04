@@ -20,9 +20,6 @@ The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity t
 5. [Future](https://nrf-saiab-marip.github.io/#future)
 6. [Funders](https://nrf-saiab-marip.github.io/#funders)
 
-
-![Mar-RIP no text](/assets/img/Mar-RIP_no_text.png)
-
 ***
 
 ## Socio-economic implications
