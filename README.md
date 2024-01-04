@@ -69,16 +69,8 @@ Over 100 students and researchers from 39 national and international organisatio
 
 ## Useful code
 
- Merge data
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```   
-   
-Clean data
+ <details><summary>Clean data</summary>
+
 ```
 {
   "firstName": "John",
@@ -87,7 +79,21 @@ Clean data
 }
 ```
 
-<details><summary>Does work</summary>
+</details>   
+   
+<details><summary>Merge data</summary>
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+</details>
+
+<details><summary>Delete data</summary>
 
 ```
 {
