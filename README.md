@@ -32,6 +32,8 @@ The Blue Economy requires robust verifiable data of the subtidal environment to 
 - [Document2](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 - [Document3](https://github.com/GlobalArchiveManual/CheckEM/blob/d080bfcdda1462d5d5838a217f45ebf07656aba4/Manuals/CheckEM_user_guide.pdf)
 
+***
+
 ## Functionality
 Largest and most comprehensive underwater visual platform in Africa
 Remotely operated vehicles
@@ -47,6 +49,8 @@ Innovation and development of new applications and equipment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+***
+
 ## Transformation & Capacity Development
 Extensive postgraduate student use of resources
 Developing a transformed cohort of next-generation marine technicians
@@ -56,16 +60,22 @@ Annual Summer School initiative
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+***
+
 ## Users
 Over 100 students and researchers from 39 national and international organisations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+***
+
 ## Users
 
 Over 100 students and researchers from 39 national and international organisations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+***
 
 ## Useful code
 
@@ -102,6 +112,7 @@ Over 100 students and researchers from 39 national and international organisatio
 </pre>
 </details>
 
+***
 
 ## Future
 
@@ -109,6 +120,8 @@ Over 100 students and researchers from 39 national and international organisatio
 2. Artificial intelligence applications in footage analysis
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+***
 
 ## Funders
 DSI, NRF-SAIAB, SMCRI
