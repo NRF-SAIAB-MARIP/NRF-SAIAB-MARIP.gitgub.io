@@ -121,4 +121,4 @@ DSI, NRF-SAIAB, SMCRI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<img src="/assets/img/footer.png" alt="Footer" title="footer" align="center"/>
+<img src="/assets/img/Footer.png" alt="Footer" title="footer" align="center"/>
