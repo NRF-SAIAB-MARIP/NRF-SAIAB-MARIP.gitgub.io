@@ -1,7 +1,8 @@
-# Marine Remote Imagery Platform (MARIP)
+<a href="https://aimeos.org/">
+    <img src="/assets/img/nrf_saiab_cover.jpeg" alt="Logo" title="SAIAB" align="right" height="60" />
+</a>
 
-<img src="/assets/img/nrf_saiab_cover.jpeg" align="left"
-     alt="Logo" width="120">
+# Marine Remote Imagery Platform (MARIP)
 
 The Marine Remote Imagery Platform (MARIP) provides scientists the opportunity to conduct ecological research on benthic biota across the continental shelf of South Africa, from the shallow subtidal to depths of 250 m.
 
